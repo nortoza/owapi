@@ -1,0 +1,12 @@
+{
+  "name": "aws-weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1206.0",
+    "ioredis": "^5.2.3"
+  }
+}
